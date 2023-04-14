@@ -6,10 +6,21 @@ Step1. Install termux with this link = https://f-droid.org/en/packages/com.termu
 Android. ([Play Store release](https://play.google.com/store/apps/details?id=com.termux) is no more updated, so is not recommended.)
 
 
-Step2. 
-* Open Termux and run the following commands:
-  ```
-  apt update && apt install python python2 openssh -y
+Step2.
+
+* Open Termux App. Info 
+
+* Clear Data and Cache
+
+* Open Termux again and run the following commands:
+ ```
+## pkg update && pkg upgrade -y 
+
+## pkg install git
+
+## pkg install wget
+ 
+##  apt update && apt install python python2 openssh -y
 
 
 Step3. 
