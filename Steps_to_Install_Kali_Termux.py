@@ -106,3 +106,5 @@ Below is the Link to get more info about Securing your Kali and other info.
 * https://www.makeuseof.com/how-to-change-root-password-kali-linux/
 
 * https://www.codelivly.com/termux-tutorial-with-complete-termux-commands/ 
+
+* https://www.makeuseof.com/how-to-change-root-password-kali-linux/
