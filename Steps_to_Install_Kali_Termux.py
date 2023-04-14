@@ -28,13 +28,51 @@ Go to Google Search and type the key words:
 
 "roots fs corrupted solved technically Meer" 
 
-## you should be in this website: https://technicalmeer.com/tag/kali-linux/ 
+## you should be in this website after typing the above key words(Smoking Achieves): https://technicalmeer.com/tag/kali-linux/ 
+
+## Now... Scroll down till you get to "How to Fix Rootfs Corrupted in Kali Linux NetHunter?" 
+
+
+## Click on "Read More" 
+
+## You can check your architect by following command.:
+
+getprop ro.product.cpu.abi
+
+## you can download the file in (---secs).. Wait till it is completed. 
+Then click on 
+"DOWNLOAD Rootfs Files"
+
+## download " (DOWNLOAD 64 bit Rootfs File) arm64-v8a " 64bit"
+## download " (DOWNLOAD 32 bit Rootfs File) armeabi or armeabi-v7a"
+
+
+ 
+# Please download the files according to your architecture.
+ You can check your architect by following command. 
+
+## After download the file update or upgrade your termux by following commands. 
+
+## ## pkg update && pkg upgrade -y 
+
+## pkg install git
+
+## pkg install wget
+ 
+##  apt update && apt install python python2 openssh -y
+
+## wget -O install-nethunter-termux https://offs.ec/2MceZWr 
+
+## Now we will give storage permissions to our termux.
+Type this command:
+
+termux-setup-storage 
+
+## now run simply few commands to copy the roots file into
+ Home directory and extract the file by following commands.
+
 
 ## 
-
-
-
-
 
 Below is the Link to get more info about Securing your Kali and other info.
 
