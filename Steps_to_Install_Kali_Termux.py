@@ -24,10 +24,13 @@ Step2.
 
 
 Step3. 
+Go to Google Search and type the key words:
 
+"roots fs corrupted solved technically Meer" 
 
+## you should be in this website: https://technicalmeer.com/tag/kali-linux/ 
 
-
+## 
 
 
 
