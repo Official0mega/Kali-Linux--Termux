@@ -72,7 +72,33 @@ termux-setup-storage
  Home directory and extract the file by following commands.
 
 
-## 
+Type these commands one by one:
+## cd storage
+	ls
+	
+	cd downloads
+	
+	ls
+	
+	cp filename(kalifs-arm64-full.tar.xz) /$HOME
+
+	cd
+
+	ls
+
+	chmod +x *
+
+	ls
+
+
+## Good! Now we are in the final step which is to run the following command.
+
+	./install-nethunter-termux
+
+	nh
+
+
+Nice! You Fix Rootfs Corrupted. Now you will successfully download and install official kali Linux on Android phone.
 
 Below is the Link to get more info about Securing your Kali and other info.
 
