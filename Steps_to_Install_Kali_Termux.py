@@ -1,3 +1,5 @@
+How to Fix Rootfs Corrupted in Kali Linux NetHunter? | installer again or download the file manually
+
 
 Step1. Install termux with this link = https://f-droid.org/en/packages/com.termux/
 
@@ -10,7 +12,7 @@ Step2.
   apt update && apt install python python2 openssh -y
 
 
-*
+Step3. 
 
 
 
